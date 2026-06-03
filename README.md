@@ -15,7 +15,7 @@ Just a quick warning before you send these out there, some videos have **REALLY 
 <details>
 <summary>👋 Click me to show the URLs</summary>
 
-https://cdn.discordapp.com/attachments/950077002654814229/1018508500512542740/bingbong.webm
+~~https://cdn.discordapp.com/attachments/950077002654814229/1018508500512542740/bingbong.webm~~ (broken)
 
 https://cdn.discordapp.com/attachments/880342502660530176/1003330211972137070/mixed.webm
 
@@ -45,7 +45,7 @@ https://cdn.discordapp.com/attachments/616739915937480717/1002895521201008670/16
 
 https://cdn.discordapp.com/attachments/891822405935304704/1003362967112388628/thetruecshit_Sporadic.webm
 
-https://cdn.discordapp.com/attachments/872257939585531944/1003150751146725466/Rice_Cakes.webm
+~~https://cdn.discordapp.com/attachments/872257939585531944/1003150751146725466/Rice_Cakes.webm~~ (broken)
 
 https://cdn.discordapp.com/attachments/593357132015992843/1008857013721255996/7a85953152014d9ba7dbef7bb5a625b7_Audiobounce.webm
 
@@ -111,13 +111,13 @@ https://cdn.discordapp.com/attachments/1008891430640570418/1143468884087799898/S
 
 https://cdn.discordapp.com/attachments/403698615446536206/1149674740777234442/OwO.webm
 
-https://cdn.discordapp.com/attachments/1142965723203915846/1149677431121252403/x3.webm
+~~https://cdn.discordapp.com/attachments/1142965723203915846/1149677431121252403/x3.webm~~ (broken)
 
 https://cdn.discordapp.com/attachments/1150542434657386666/1155963862676414504/video_1_keyframes.webm
 
 https://cdn.discordapp.com/attachments/1133818118066688123/1149719820850434079/the_greatest_of_them_all.webm
 
-https://cdn.discordapp.com/attachments/1117538658740879451/1156605977160859758/cute_koishi.webm
+~~https://cdn.discordapp.com/attachments/1117538658740879451/1156605977160859758/cute_koishi.webm~~ (broken)
 
 ~~https://cdn.discordapp.com/attachments/1133818118066688123/1156965217557823540/tame_impala.webm~~ (broken)
 
@@ -125,7 +125,7 @@ https://cdn.discordapp.com/attachments/1133818118066688123/1156965216509247688/c
 
 https://cdn.discordapp.com/attachments/1133818118066688123/1156965214739251200/me_when_shrink.webm
 
-https://cdn.discordapp.com/attachments/1117538658740879451/1157118244310761512/SPOILER_totally_not_ride_the_lightning_bounce.webm
+~~https://cdn.discordapp.com/attachments/1117538658740879451/1157118244310761512/SPOILER_totally_not_ride_the_lightning_bounce.webm~~ (broken)
 
 https://cdn.discordapp.com/attachments/1133818118066688123/1157533892958502932/grunt_sporadic.webm
 
